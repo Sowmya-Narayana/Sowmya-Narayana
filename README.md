@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sowmya-Narayana
 - 👀 I’m interested in web development and coding
-- 🌱 I’m currently learning ruby and have good knowledge on Javascript,HTML,CSS,GIT
+- 🌱 I’m currently learning js and have good knowledge on Javascript,HTML,CSS,GIT
 
 
 <!---
